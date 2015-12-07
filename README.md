@@ -20,8 +20,8 @@ Clone this repository and link the `.Xresources` file and the `.Xresources.d` di
 
 ```
 git clone https://github.com/darkblinded/xresources.git 
-ln -S xresources/xresources ~/.Xresources
-ln -S xresources/xresources.d ~/.Xresources.d
+ln -S xresources/Xresources ~/.Xresources
+ln -S xresources/Xresources.d ~/.Xresources.d
 ```
 
 Now you just have to set the X resources by
